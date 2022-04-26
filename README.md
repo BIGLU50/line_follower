@@ -1,6 +1,6 @@
 # LINE FOLLOWER 
 
-linefollow.py commands a robot to move itself towards the computed center of a detected range of colors. Using the provided linemission.launch file, the robot starts on a yellow line and follows it.
+linefollow.py commands a robot to move itself towards the computed center of a detected range of colors. Using the provided linemission.launch file, the robot starts on a yellow line and follows it. Note that most of the code is recycled from prrexamples' line_follower and color_filter programs.
 
 Notable lines of code that warrant explanation include:
 Lines 22-26
